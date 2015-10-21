@@ -1,6 +1,6 @@
 # XLmap
 
-http://bioinformatics.oxfordjournals.org/content/early/2015/09/03/bioinformatics.btv519.abstract
+http://bioinformatics.oxfordjournals.org/content/early/2015/10/06/bioinformatics.btv519
 
 Motivation: Chemical cross-linking with mass spectrometry (XL-MS) provides structural
 information for proteins and protein complexes in the form of crosslinked residue 
