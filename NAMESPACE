@@ -1,0 +1,7 @@
+import(Matrix)
+import(Rpdb)
+import(tcltk)
+import(lattice)
+import(latticeExtra)
+import(zoo)
+exportPattern("^[[:alpha:]]+")

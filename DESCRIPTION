@@ -1,0 +1,18 @@
+Package: XLmap
+Version: 0.2.1
+Type: Package
+Title: Map Protein Cross-Link Sites To Protein Structure Contact Maps
+Date: 2015-09-21
+Author: Devin K Schweppe, Juan D Chavez, James E Bruce
+Maintainer: Devin K Schweppe <dkschwep@uw.edu>
+LazyData: true
+Description: Package designed to overlay a protein structure contact map and residues cross-linked within a protein for visualization of cross-linked residues and to calculate the agreement between these two maps.
+License: GPL-2
+Depends: R (>= 3.0),
+			Rpdb
+Imports: 	zoo, 
+			lattice, 
+			latticeExtra, 
+			Matrix, 
+			tcltk
+Packaged: 2015-06-17 23:26:53 UTC; Devin Schweppe
